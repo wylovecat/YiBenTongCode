@@ -4,6 +4,10 @@
 
 信息学奥赛一本通题目源码。
 
+OJ网址：http://ybt.ssoier.cn:8088/index.php
+
+配套视频讲解：https://www.bilibili.com/video/av87039229/
+
 ## 基础（一）C++语言
 
 ### 第一章 C++语言入门
@@ -34,6 +38,13 @@
 1015. [计算并联电阻的阻值](https://gitee.com/wyloving/YiBenTongCode/blob/master/1015_%E8%AE%A1%E7%AE%97%E5%B9%B6%E8%81%94%E7%94%B5%E9%98%BB%E7%9A%84%E9%98%BB%E5%80%BC.cpp)
 
 #### 第三节 标准数据类型
+
+1016. [整型数据类型存储空间大小](https://gitee.com/wyloving/YiBenTongCode/blob/master/1016_%E6%95%B4%E5%9E%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F.cpp)
+1017. [浮点型数据类型存储空间大小](https://gitee.com/wyloving/YiBenTongCode/blob/master/1017_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F.cpp)
+1018. [其他数据类型存储空间大小](https://gitee.com/wyloving/YiBenTongCode/blob/master/1017_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F.cpp)
+1019. [浮点数向零舍入](https://gitee.com/wyloving/YiBenTongCode/blob/master/1017_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F.cpp)
+1020. [打印ASCII](https://gitee.com/wyloving/YiBenTongCode/blob/master/1020%E6%89%93%E5%8D%B0ASCII%E7%A0%81.cpp)
+1021. [打印字符](https://gitee.com/wyloving/YiBenTongCode/blob/master/1020%E6%89%93%E5%8D%B0ASCII%E7%A0%81.cpp)
 
 #### 第四节 数据输入和输出
 
