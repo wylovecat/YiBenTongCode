@@ -27,6 +27,12 @@
 
 #### 第二节 常量和变量
 
+1011. [甲流疫情死亡率](https://gitee.com/wyloving/YiBenTongCode/blob/master/1011_%E7%94%B2%E6%B5%81%E7%96%AB%E6%83%85%E6%AD%BB%E4%BA%A1%E7%8E%87.cpp)
+1012. [计算多项式的值](https://gitee.com/wyloving/YiBenTongCode/blob/master/1012_%E8%AE%A1%E7%AE%97%E5%A4%9A%E9%A1%B9%E5%BC%8F%E7%9A%84%E5%80%BC.cpp)
+1013. [温度表达式转化](https://gitee.com/wyloving/YiBenTongCode/blob/master/1013_%E6%B8%A9%E5%BA%A6%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%BD%AC%E6%8D%A2.cpp)
+1014. [与圆相关的计算](https://gitee.com/wyloving/YiBenTongCode/blob/master/1014%E4%B8%8E%E5%9C%86%E7%9B%B8%E5%85%B3%E7%9A%84%E8%AE%A1%E7%AE%97.cpp)
+1015. [计算并联电阻的阻值](https://gitee.com/wyloving/YiBenTongCode/blob/master/1015_%E8%AE%A1%E7%AE%97%E5%B9%B6%E8%81%94%E7%94%B5%E9%98%BB%E7%9A%84%E9%98%BB%E5%80%BC.cpp)
+
 #### 第三节 标准数据类型
 
 #### 第四节 数据输入和输出
