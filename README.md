@@ -8,6 +8,8 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 配套视频讲解：https://www.bilibili.com/video/av87039229/
 
+更新至 1010
+
 ## 基础（一）C++语言
 
 ### 第一章 C++语言入门
@@ -45,8 +47,16 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 1019. [浮点数向零舍入](https://gitee.com/wyloving/YiBenTongCode/blob/master/1017_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F.cpp)
 1020. [打印ASCII](https://gitee.com/wyloving/YiBenTongCode/blob/master/1020%E6%89%93%E5%8D%B0ASCII%E7%A0%81.cpp)
 1021. [打印字符](https://gitee.com/wyloving/YiBenTongCode/blob/master/1020%E6%89%93%E5%8D%B0ASCII%E7%A0%81.cpp)
+1022. [整型与布尔类型的转换](https://gitee.com/wyloving/YiBenTongCode/blob/master/1022_%E6%95%B4%E5%9E%8B%E4%B8%8E%E5%B8%83%E5%B0%94%E5%9E%8B%E7%9A%84%E8%BD%AC%E6%8D%A2.cpp)
+1023. [Hello, World!的大小](https://gitee.com/wyloving/YiBenTongCode/blob/master/1023_Hello,World!%E7%9A%84%E5%A4%A7%E5%B0%8F.cpp)
 
 #### 第四节 数据输入和输出
+
+1024. [保留3位小数的浮点数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1024_%E4%BF%9D%E7%95%993%E4%BD%8D%E5%B0%8F%E6%95%B0%E7%9A%84%E6%B5%AE%E7%82%B9%E6%95%B0.cpp)
+1025. [保留12位小数的浮点数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1025_%E4%BF%9D%E7%95%9912%E4%BD%8D%E5%B0%8F%E6%95%B0%E7%9A%84%E6%B5%AE%E7%82%B9%E6%95%B0.cpp)
+1026. [空格分隔输出](https://gitee.com/wyloving/YiBenTongCode/blob/master/1026_%E7%A9%BA%E6%A0%BC%E5%88%86%E9%9A%94%E8%BE%93%E5%87%BA.cpp)
+1027. [输出浮点数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1027_%E8%BE%93%E5%87%BA%E6%B5%AE%E7%82%B9%E6%95%B0.cpp)
+1028. [字符菱形](https://gitee.com/wyloving/YiBenTongCode/blob/master/1028_%E5%AD%97%E7%AC%A6%E8%8F%B1%E5%BD%A2.cpp)
 
 #### 第五节 顺序结构实例
 
