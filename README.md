@@ -60,6 +60,17 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 #### 第五节 顺序结构实例
 
+1029. [计算浮点数相除的余](https://gitee.com/wyloving/YiBenTongCode/blob/master/1029_%E8%AE%A1%E7%AE%97%E6%B5%AE%E7%82%B9%E6%95%B0%E7%9B%B8%E9%99%A4%E7%9A%84%E4%BD%99.cpp)
+1030. [计算球的体积](https://gitee.com/wyloving/YiBenTongCode/blob/master/1029_%E8%AE%A1%E7%AE%97%E6%B5%AE%E7%82%B9%E6%95%B0%E7%9B%B8%E9%99%A4%E7%9A%84%E4%BD%99.cpp)
+1031. [反向输出一个三位数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1031_%E5%8F%8D%E5%90%91%E8%BE%93%E5%87%BA%E4%B8%80%E4%B8%AA%E4%B8%89%E4%BD%8D%E6%95%B0.cpp)
+1032. [大象喝水查](https://gitee.com/wyloving/YiBenTongCode/blob/master/1032_%E5%A4%A7%E8%B1%A1%E5%96%9D%E6%B0%B4%E6%9F%A5.cpp)
+1033. [计算线段长度](https://gitee.com/wyloving/YiBenTongCode/blob/master/1033_%E8%AE%A1%E7%AE%97%E7%BA%BF%E6%AE%B5%E9%95%BF%E5%BA%A6.cpp)
+1034. [计算三角形面积](https://gitee.com/wyloving/YiBenTongCode/blob/master/1033_%E8%AE%A1%E7%AE%97%E7%BA%BF%E6%AE%B5%E9%95%BF%E5%BA%A6.cpp)
+1035. [等差数列末项计算](https://gitee.com/wyloving/YiBenTongCode/blob/master/1035_%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E6%9C%AB%E9%A1%B9jisr.cpp)
+1036. [AXB问题](https://gitee.com/wyloving/YiBenTongCode/blob/master/1036_AXB%E9%97%AE%E9%A2%98.cpp)
+1037. [计算2的冥](https://gitee.com/wyloving/YiBenTongCode/blob/master/1037_%E8%AE%A1%E7%AE%972%E7%9A%84%E5%86%A5.cpp)
+1038. [苹果和虫子](https://gitee.com/wyloving/YiBenTongCode/blob/master/1038_%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%99%AB%E5%AD%90.cpp)
+
 ### 第三章 程序的控制结构
 
 #### 第一节 if选择结构
