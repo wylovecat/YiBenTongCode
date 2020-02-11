@@ -8,7 +8,7 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 配套视频讲解：https://www.bilibili.com/video/av87039229/
 
-更新至 1010
+视频更新至 1015
 
 ## 基础（一）C++语言
 
@@ -74,6 +74,17 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 ### 第三章 程序的控制结构
 
 #### 第一节 if选择结构
+
+1039. [判断正负](https://gitee.com/wyloving/YiBenTongCode/blob/master/1039_%E5%88%A4%E6%96%AD%E6%AD%A3%E8%B4%9F.cpp)
+1040. [输出绝对值](https://gitee.com/wyloving/YiBenTongCode/blob/master/1040_%E8%BE%93%E5%87%BA%E7%BB%9D%E5%AF%B9%E5%80%BC.cpp)
+1041. [奇偶数判断](https://gitee.com/wyloving/YiBenTongCode/blob/master/1041_%E5%A5%87%E5%81%B6%E6%95%B0%E5%88%A4%E6%96%AD.cpp)
+1042. [奇偶ASCII值判断](https://gitee.com/wyloving/YiBenTongCode/blob/master/1042_%E5%A5%87%E5%81%B6ASCII%E5%80%BC%E5%88%A4%E6%96%AD.cpp)
+1043. [整数比较大小](https://gitee.com/wyloving/YiBenTongCode/blob/master/1043_%E6%95%B4%E6%95%B0%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F.cpp)
+1044. [判断是否为两位数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1044_%E5%88%A4%E6%96%AD%E6%98%AF%E5%90%A6%E4%B8%BA%E4%B8%A4%E4%BD%8D%E6%95%B0.cpp)
+1045. [收集瓶盖赢大奖](https://gitee.com/wyloving/YiBenTongCode/blob/master/1045_%E6%94%B6%E9%9B%86%E7%93%B6%E7%9B%96%E8%B5%A2%E5%A4%A7%E5%A5%96.cpp)
+1046. [判断一个数能否同时被3和5整除](https://gitee.com/wyloving/YiBenTongCode/blob/master/1046_%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E6%95%B0%E8%83%BD%E5%90%A6%E5%90%8C%E6%97%B6%E8%A2%AB3%E5%92%8C5%E6%95%B4%E9%99%A4.cpp)
+1047. [判断能否被3,5,7整除](https://gitee.com/wyloving/YiBenTongCode/blob/master/1047_%E5%88%A4%E6%96%AD%E8%83%BD%E5%90%A6%E8%A2%AB3%EF%BC%8C5%EF%BC%8C7%E6%95%B4%E9%99%A4.cpp)
+1048. [有一门课不及格的学生](https://gitee.com/wyloving/YiBenTongCode/blob/master/1048_%E6%9C%89%E4%B8%80%E9%97%A8%E8%AF%BE%E4%B8%8D%E5%8F%8A%E6%A0%BC%E7%9A%84%E5%AD%A6%E7%94%9F.cpp)
 
 #### 第二节 switch语句
 
