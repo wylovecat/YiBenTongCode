@@ -110,10 +110,13 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 #### 第一节 函数
 
-1150. [求正整数2和n之间的完全数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1150_%E6%B1%82%E6%AD%A3%E6%95%B4%E6%95%B02%E5%92%8Cn%E4%B9%8B%E9%97%B4%E7%9A%84%E5%AE%8C%E5%85%A8%E6%95%B0.cpp)
-1151. [素数个数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1151_%E7%B4%A0%E6%95%B0%E4%B8%AA%E6%95%B0.cpp)
-1152. [最大数max(x,y,z)](https://gitee.com/wyloving/YiBenTongCode/blob/master/1152_%E6%9C%80%E5%A4%A7%E6%95%B0max(x,y,z).cpp)
-1153. [绝对素数](https://gitee.com/wyloving/YiBenTongCode/blob/master/1153_%E7%BB%9D%E5%AF%B9%E7%B4%A0%E6%95%B0.cpp)
+1150. 求正整数2和n之间的完全数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1150_%E6%B1%82%E6%AD%A3%E6%95%B4%E6%95%B02%E5%92%8Cn%E4%B9%8B%E9%97%B4%E7%9A%84%E5%AE%8C%E5%85%A8%E6%95%B0.cpp)
+1151. 素数个数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1151_%E7%B4%A0%E6%95%B0%E4%B8%AA%E6%95%B0.cpp)
+1152. 最大数max(x,y,z) [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1152_%E6%9C%80%E5%A4%A7%E6%95%B0max(x,y,z).cpp)
+1153. 绝对素数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1153_%E7%BB%9D%E5%AF%B9%E7%B4%A0%E6%95%B0.cpp)
+1154. 亲和数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1154_%E4%BA%B2%E5%92%8C%E6%95%B0.cpp)
+1155. 回文三位数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1155_%E5%9B%9E%E6%96%87%E4%B8%89%E4%BD%8D%E6%95%B0.cpp)
+1156. 求π的值 [源码]([https://gitee.com/wyloving/YiBenTongCode/blob/master/1156_%E6%B1%82%CF%80%E7%9A%84%E5%80%BC.cpp](https://gitee.com/wyloving/YiBenTongCode/blob/master/1156_求π的值.cpp))
 
 #### 第二节 递归算法
 
