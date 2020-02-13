@@ -8,7 +8,7 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 配套视频讲解：https://www.bilibili.com/video/av87039229/
 
-视频更新至 1015
+视频更新至 1023
 
 ## 基础（一）C++语言
 
@@ -88,9 +88,24 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 #### 第二节 switch语句
 
+1049. 晶晶赴约会 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1049_%E6%99%B6%E6%99%B6%E8%B5%B4%E7%BA%A6%E4%BC%9A.cpp)
+1050. 骑车与走路 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1050_%E9%AA%91%E8%BD%A6%E4%B8%8E%E8%B5%B0%E8%B7%AF.cpp)
+1051. 分段函数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1051_%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0.cpp)
+1052. 计算邮资 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1052_%E8%AE%A1%E7%AE%97%E9%82%AE%E8%B5%84.cpp)
+1053. 最大数输出 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1053_%E6%9C%80%E5%A4%A7%E6%95%B0%E8%BE%93%E5%87%BA.cpp)
+1054. 三角形判断 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1054_%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E6%96%AD.cpp)
+1055. 判断闰年 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1055_%E5%88%A4%E6%96%AD%E9%97%B0%E5%B9%B4.cpp)
+1056. 点和正方形的关系 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1056_%E7%82%B9%E5%92%8C%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E5%85%B3%E7%B3%BB.cpp)
+1057. 简单计算器 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1057_%E7%AE%80%E5%8D%95%E8%AE%A1%E7%AE%97%E5%99%A8.cpp)
+1058. 求一元二次方程 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1058_%E6%B1%82%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B.cpp)
+
 ### 第四章 循环结构的程序设计
 
 #### 第一节 for语句
+
+1059. 求平均年龄 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1059_%E5%B9%B3%E5%9D%87%E5%B9%B4%E9%BE%84.cpp)
+1060. 均值 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1060_%E5%9D%87%E5%80%BC.cpp)
+1061. 求整数的和与均值 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1061_%E6%B1%82%E6%95%B4%E6%95%B0%E7%9A%84%E5%92%8C%E4%B8%8E%E5%9D%87%E5%80%BC.cpp)
 
 #### 第二节 while语句
 
@@ -119,6 +134,9 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 1156. 求π的值 [源码]([https://gitee.com/wyloving/YiBenTongCode/blob/master/1156_%E6%B1%82%CF%80%E7%9A%84%E5%80%BC.cpp](https://gitee.com/wyloving/YiBenTongCode/blob/master/1156_求π的值.cpp))
 
 #### 第二节 递归算法
+
+1163. 阿克曼(Ackmann)函数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1163_%E9%98%BF%E5%85%8B%E6%9B%BC(Ackmann)%E5%87%BD%E6%95%B0.cpp)
+1164. digit函数 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1164_digit%E5%87%BD%E6%95%B0.cpp)
 
 ## 基础（二）基础算法
 
