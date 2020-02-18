@@ -8,7 +8,7 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 配套视频讲解：https://www.bilibili.com/video/av87039229/
 
-视频更新至 1023
+视频更新至 1038
 
 ## 基础（一）C++语言
 
