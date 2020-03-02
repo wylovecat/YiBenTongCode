@@ -8,7 +8,7 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 
 配套视频讲解：https://www.bilibili.com/video/av87039229/
 
-视频更新至 1038
+视频更新至 1048
 
 ## 基础（一）C++语言
 
@@ -106,6 +106,14 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 1059. 求平均年龄 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1059_%E5%B9%B3%E5%9D%87%E5%B9%B4%E9%BE%84.cpp)
 1060. 均值 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1060_%E5%9D%87%E5%80%BC.cpp)
 1061. 求整数的和与均值 [源码](https://gitee.com/wyloving/YiBenTongCode/blob/master/1061_%E6%B1%82%E6%95%B4%E6%95%B0%E7%9A%84%E5%92%8C%E4%B8%8E%E5%9D%87%E5%80%BC.cpp)
+1062. 最高的分数 源码
+1063. 最大跨度值 源码
+1064. 奥运奖牌计数 源码
+1065. 奇数求和 源码
+1066. 满足条件的数累加 源码
+1067. 整数的个数 源码
+1068. 与指定数字相同数的个数 源码
+1069. 乘方计算 源码
 
 #### 第二节 while语句
 
