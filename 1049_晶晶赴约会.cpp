@@ -4,12 +4,14 @@ int main()
 {
 	int date;
 	cin>>date;
-	if(date==1 || date==3 ||date==5)
+	
+	switch(date)
 	{
-		cout<<"NO";
-	}else
-	{
-		cout<<"YES";
+		case 1:
+		case 3:
+		case 5:cout<<"NO";break;
+		default:cout<<"YES";
 	}
+
 	return 0;
 }

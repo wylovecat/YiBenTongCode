@@ -1,23 +1,26 @@
 #include <iostream>
 using namespace std;
-int factSum(int num)
-{// 求num的因子和 
-	int sum=0;
-	for(int i=1;i<num;i++)
+
+bool isPrime(int num)
+{
+	if(num==2) return true;
+	if(num%2==0) return false;
+	
+	for(int i=2;i*i<=num;i++)
 	{
-		if(num%i==0) sum+=i;
+		if(num%i==0) return false;
 	}
-	return sum;
+	return true;
 }
 
 int  main() {
-
-	for(int a=2;;a++)
+	int n;
+	cin>>n;
+	
+	for(int i=2;i<=n;i++)
 	{
-		int b=factSum(a);
-		if(a==factSum(b) && a!=b)
-		{
-			cout<<a<<" "<<b;
+		if(num%i==0) {
+			cout<<n/i;
 			break;
 		}
 	}
