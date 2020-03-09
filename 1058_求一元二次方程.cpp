@@ -1,41 +1,38 @@
 #include <iostream>
-#include <cstdio>
 #include <cmath>
-#include <cstring>//memset()
-using namespace std;
-const double p=1e-12;
-// const  bool  flag[xxx]   1
-//  数值比较大  数组  
+#include <cstdio> 
 
-bool vis[100000]={0}; 
+using namespace std; 
+/*
 
+*/
+const double p=1e-12;// AeB  
 
-
-
-int main()
-{
-	memset(vis,true,sizeof(vis));
-	double a,b,c,del,x1,x2;
+int main(int argc, char** argv) {
+	double a,b,c;
 	cin>>a>>b>>c;
+	double del = b*b-4*a*c;
 	
-	del=b*b-4*a*c;
-	if(del<0&&fabs(del)>p)
-		cout<<"No answer!";
-	else if(fabs(del)<p){
-		printf("x1=x2=%.5lf",(-b)/(2*a));
-	}else{
-		x1=(-b+sqrt(del))/(2*a);
-		x2=(-b-sqrt(del))/(2*a);
+	if(fabs(del)<p)
+	{
+		printf("x1=x2=%.5f",(-b)/(2*a));
+	}else if(del > 0)
+	{
+		double x1=(-b-sqrt(del))/(2*a);
+		double x2=(-b+sqrt(del))/(2*a);
 		
-		if(fabs(x1)<(1e-6)) x1=0;
-		if(fabs(x2)<(1e-6)) x2=0;
-		
-		if(x1>x2){
-			double tmp=x1;
+		if(x1>x2)
+		{
+			double t=x1;
 			x1=x2;
-			x2=tmp; 
+			x2=t;
 		}
-		printf("x1=%.5lf;x2=%.5lf",x1,x2);
+		
+		printf("x1=%.5f;x2=%.5f",x1,x2);
+	}else
+	{
+		printf("No answer!");
 	}
+	
 	return 0;
 }
