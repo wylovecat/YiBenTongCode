@@ -6,9 +6,15 @@
 
 OJ网址：http://ybt.ssoier.cn:8088/index.php
 
-配套视频讲解：https://www.bilibili.com/video/av87039229/
+配套视频讲解：
 
-视频更新至 1048
+变量基础：https://www.bilibili.com/video/av87039229/
+
+程序的控制结构：https://www.bilibili.com/video/av93389162/
+
+for循环语句：https://www.bilibili.com/video/av94890066/
+
+视频更新至 1071
 
 ## 基础（一）C++语言
 
@@ -114,6 +120,12 @@ OJ网址：http://ybt.ssoier.cn:8088/index.php
 1067. 整数的个数 源码
 1068. 与指定数字相同数的个数 源码
 1069. 乘方计算 源码
+1070. 人口增长 源码
+1071. 菲波那契数 源码
+1072. 鸡尾酒疗法 源码
+1073. 救援 源码
+1074. 津津的储蓄计划 源码
+1075. 药房管理源码 源码
 
 #### 第二节 while语句
 
