@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-//  方法1：循环累成 
+//  方法1：循环累乘 
 //	int n,s=1;
 //	cin>>n; 
 //	for(int i=1;i<=n;i++)
@@ -13,7 +13,7 @@ int main()
 //	cout<<s;
 	int n;
 	cin>>n;
-	printf("%d",pow(2,n));
+	printf("%d",int(pow(2,n)));
 	
 	return 0;
 }
