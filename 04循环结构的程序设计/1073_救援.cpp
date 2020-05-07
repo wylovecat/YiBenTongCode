@@ -5,7 +5,7 @@ int main()
 {
 	int n,num;
 	double x,y,sum=0;
-	cin>>n;w
+	cin>>n;
 	for(int i=1;i<=n;i++)
 	{
 		cin>>x>>y>>num;
