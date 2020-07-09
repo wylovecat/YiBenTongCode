@@ -2,17 +2,16 @@
 #include <cstdio>
 #include <cmath>
 using namespace std;
-//1398：短信计费
-double infoValue(int x){
+//1398_短信计费
+double infoValue(int x) {
 	return 0.1*ceil(x/70.0);
 }
 
-int main()
-{
+int main() {
 	int n;
 	double sum=0;
 	cin>>n;
-	for(int i=1;i<=n;i++){
+	for(int i=1; i<=n; i++) {
 		int x;
 		cin>>x;
 		sum+=infoValue(x);
@@ -20,3 +19,4 @@ int main()
 	printf("%.1lf",sum);
 	return 0;
 }
+
