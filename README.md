@@ -6,23 +6,31 @@
 
 OJ网址：http://ybt.ssoier.cn:8088/index.php
 
+配套题解文章
+
+CSDN: https://blog.csdn.net/a13777731/category_10662953.html
+
+博客园：https://www.cnblogs.com/wyloving/tag/%E4%B8%80%E6%9C%AC%E9%80%9A/
+
+
+
 配套视频讲解：
 
 信息学奥赛一本通题解频道：
 
-https://space.bilibili.com/37436827/channel/detail?cid=106710
+第一部分 C++语言 【已完结】
 
-变量基础：https://www.bilibili.com/video/av87039229/
+ https://www.bilibili.com/video/BV1T7411h7dm/
 
-程序的控制结构：https://www.bilibili.com/video/av93389162/
+第二部分 基础算法 【更新中】
 
-for循环语句：https://www.bilibili.com/video/av94890066/
+https://www.bilibili.com/video/BV12f4y1Y7zi/
 
-while/do_while语句：https://www.bilibili.com/video/av96956109/
+第三部分 数据结构 【待推进】
 
-循环嵌套：https://www.bilibili.com/video/av96956109/
 
-视频更新至 1145
+
+视频更新至 1169 大整数减法
 
 # 目录
 
