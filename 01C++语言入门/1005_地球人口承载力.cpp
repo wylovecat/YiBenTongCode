@@ -8,15 +8,15 @@ int main()
 	cin>>x>>a>>y>>b; 
 	
 	/*
-	设地球现有资源now,每年新增up,每年消耗down
-	若可持续发展 
+	璁惧湴鐞冪幇鏈夎祫婧恘ow,姣忓勾鏂板up,姣忓勾娑堣�梔own
+	鑻ュ彲鎸佺画鍙戝睍 
 	year*up = z*year*down
 	z = up/down 
 		
 	now + a*up = a*x*down
 	now + b*up = b*y*down
 	
-	两式相减
+	涓ゅ紡鐩稿噺
 	
 	a*up-b*up = a*x*down-b*y*down
 	up(a-b) = down(ax - by)
